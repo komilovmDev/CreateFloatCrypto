@@ -1,0 +1,2 @@
+# CreateFloatCrypto
+my coin
